@@ -1,0 +1,7 @@
+first install wkhtmltopdf 
+1. sudo apt-get install wkhtmltopdf
+check the version --
+2. wkhtmltopdf -v
+3.extract wkhtmltopdf.tar.gz
+4.cd wkhtmltopdf
+5.sudo mv wkhtmltopdf  /usr/bin/wkhtmltopdf
